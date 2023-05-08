@@ -1,4 +1,4 @@
-package com.example.idp_sandbox
+package com.imaniprima.idp_sandbox
 
 import androidx.annotation.NonNull
 

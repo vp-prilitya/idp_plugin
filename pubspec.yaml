@@ -1,5 +1,5 @@
 name: idp_sandbox
-description: A new Flutter plugin project.
+description: Sandbox IDP plugin.
 version: 0.0.1
 homepage:
 
@@ -36,7 +36,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.idp_sandbox
+        package: com.imaniprima.idp_sandbox
         pluginClass: IdpSandboxPlugin
 
   # To add assets to your plugin package, add an assets section, like this:

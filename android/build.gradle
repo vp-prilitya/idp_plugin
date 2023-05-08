@@ -1,4 +1,4 @@
-group 'com.example.idp_sandbox'
+group 'com.imaniprima.idp_sandbox'
 version '1.0-SNAPSHOT'
 
 buildscript {
