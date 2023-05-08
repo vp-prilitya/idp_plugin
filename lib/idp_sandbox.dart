@@ -25,10 +25,7 @@ class IdpSandbox {
     print("initial...");
     List<UsbDevice> devices = await UsbSerial.listDevices();
 
-    if (devices.isEmpty) {
-      _status.add('port not found');
-      print("port not found");
-    }
+    print(devices);
 
     for (var element in devices) {
       if (element.productName == 'USB-Serial Controller D') {
